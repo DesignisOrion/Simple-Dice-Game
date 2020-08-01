@@ -8,4 +8,4 @@ This game allows the user to roll dice against the computer. The goal is to get 
 
 ## License & copyright
 
-© 2020 Orion F. / www.DesignIsOrion.com / Software Enginner
+© 2020 Orion F. / www.DesignIsOrion.com / Software Engineer
